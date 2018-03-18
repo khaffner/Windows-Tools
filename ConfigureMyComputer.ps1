@@ -48,7 +48,3 @@ if ($IsAdmin) {
         pause
     }
 }
-else {
-    #User setup. Download, install and do stuff that does not require admin.
-    
-}
